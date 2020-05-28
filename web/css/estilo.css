@@ -1,15 +1,15 @@
 
-#section {
-    background-color: #CCFFFD ;
-}
+
 .cabeca {
     background-image: url("../imagens/as.jpg");
     background-repeat: no-repeat ;
     background-size: cover;
 }
 .cabeca {
-    padding-bottom: 200px ;
+    padding-top: 100px ;
+    padding-bottom: 100px ;
 }
+
 
 .info {
     text-align: center;
