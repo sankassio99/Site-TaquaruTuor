@@ -1,0 +1,20 @@
+
+#section {
+    background-color: #CCFFFD ;
+}
+.cabeca {
+    background-image: url("../imagens/as.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+.cabeca {
+    padding-bottom: 200px ;
+}
+
+.info {
+    text-align: center;
+    border: 1px, gray ;
+}
+h2 {
+    padding-bottom: 14px ;    
+}
