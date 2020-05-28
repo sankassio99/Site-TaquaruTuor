@@ -4,6 +4,6 @@
  ( Deve se levar me consideração apenas o design do site não sua arquitetura ).
  
  
-![ScreenShot](https://github.com/sankassio99/Site-TaquaruTuor/tree/master/Screencapture/home.png)
-![ScreenShot](https://github.com/sankassio99/Site-TaquaruTuor/tree/master/Screencapture/cachoeiras.png)
-![ScreenShot](https://github.com/sankassio99/Site-TaquaruTuor/tree/master/Screencapture/sobre.png)
+![ScreenShot](https://github.com/sankassio99/Site-TaquaruTuor/blob/master/Screencapture/home.png)
+![ScreenShot](https://github.com/sankassio99/Site-TaquaruTuor/blob/master/Screencapture/cachoeiras.png)
+![ScreenShot](https://github.com/sankassio99/Site-TaquaruTuor/blob/master/Screencapture/sobre.png)
